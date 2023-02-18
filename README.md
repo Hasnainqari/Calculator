@@ -1,2 +1,2 @@
 # Calculator
-Screenshot (46).png
+<img src='./font/calculator.png'>
