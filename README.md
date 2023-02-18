@@ -1,2 +1,2 @@
 # Calculator
-<img src='./font/calculator.png'>
+<center><img src='./font/calculator.png'></center>
