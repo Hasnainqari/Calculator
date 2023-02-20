@@ -1,4 +1,4 @@
-@media(min-width: 348px) {
+@media(min-width: 270px) {
    
 @font-face {
     font-family: Roboto;
@@ -26,15 +26,14 @@
     padding: 20px;
     border-radius: 10px;
 }
-
 .calculator form input {
     border: 0;
     outline: 0;
-    width: 50px;
-    height: 50px;
+    width: 34.78px;
+    height: 34.7px;
     border-radius: 10px;
     background: transparent;
-    font-size: 20px;
+    font-size: 11px;
     margin: 10px;
     color: #fff;
     cursor: pointer;
@@ -46,8 +45,8 @@
 form .display {
     border-radius: 20px;
     box-shadow: -8px -8px 15px rgba(255, 255, 255, 0.1);
-    display: flex;
-    justify-content: flex-end;
+    /* display: flex;
+    justify-content: flex-end; */
     margin: 20px 0;
 }
 
@@ -56,13 +55,13 @@ form .display input {
     text-align: right;
     flex: 1;
     color: #000;
-    font-size: 45px;
+    /* font-size: 20px; */
     padding: 8px;
     box-shadow: none;
 }
 
 form input.equal {
-    width: 125px;
+    width: 85px;
 }
 
 
